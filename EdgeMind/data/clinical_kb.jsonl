@@ -1,0 +1,12 @@
+{"id": 0, "text": "ESI Level 1: Immediate life-saving intervention required. Cardiac arrest, respiratory failure, severe haemorrhage."}
+{"id": 1, "text": "ESI Level 2: High-risk situation or acute changes. Chest pain with cardiac risk, severe dyspnoea, altered mental status."}
+{"id": 2, "text": "ACS Red Flags: Crushing chest pain radiating to arm or jaw, diaphoresis, nausea, dyspnoea, syncope."}
+{"id": 3, "text": "Pulmonary Embolism: Acute dyspnoea, pleuritic chest pain, haemoptysis, tachycardia, hypoxia."}
+{"id": 4, "text": "Wells PE Score: DVT signs +3, PE likely +3, HR>100 +1.5, immobilisation +1.5, previous PE/DVT +1.5, haemoptysis +1, malignancy +1."}
+{"id": 5, "text": "MONA ACS protocol: Morphine IV, Oxygen if SpO2<94%, Nitrates if BP>90, Aspirin 300mg loading."}
+{"id": 6, "text": "Troponin: High-sensitivity troponin I or T. Elevated above 99th percentile. Serial at 0h and 1-3h."}
+{"id": 7, "text": "Aortic dissection: Tearing back pain, unequal arm BPs. Avoid thrombolytics. Emergency CT angiography."}
+{"id": 8, "text": "Tension pneumothorax: Absent breath sounds, tracheal deviation, hypotension. Immediate needle decompression."}
+{"id": 9, "text": "Sepsis: SIRS criteria + infection. Lactate >2. Start antibiotics within 1 hour. IV fluids 30ml/kg."}
+{"id": 10, "text": "Drug interaction: Warfarin + NSAIDs increases bleeding risk. Monitor INR. Warfarin + metronidazole potentiates anticoagulation."}
+{"id": 11, "text": "Aspirin: Acetylsalicylic acid. Antiplatelet 75-100mg OD. ACS loading 300mg. Avoid in children."}

@@ -1,0 +1,5 @@
+-keep class com.edgemind.** { *; }
+-keep class androidx.room.** { *; }
+-keepattributes Signature
+-keepattributes *Annotation*
+-dontwarn org.slf4j.**
