@@ -4,3 +4,7 @@ https://huggingface.co/collections/pytorch/torchao-quantized-phi-4-mini-instruct
 To use it going forward: source .venv/bin/activate before running scripts in this project.
 
 python script that created phi3 qantized model model: phi3executorch.py
+
+Location:
+/Users/akhil/Desktop/Executorch/quantization
+
