@@ -1,8 +1,5 @@
 Pytorch Models:
 https://huggingface.co/collections/pytorch/torchao-quantized-phi-4-mini-instruct
 
-python3 -m venv .venv && source .venv/bin/activate && python -m pip install --upgrade pip -q && echo OK
-
-source .venv/bin/activate && pip install torch==2.4.0 torchvision==0.19.0 torchaudio==2.4.0 torchao==0.5.0 executorch==0.3.0 transformers==4.44.2 accelerate 2>&1 | tail -60
-
+To use it going forward: source .venv/bin/activate before running scripts in this project.
 
